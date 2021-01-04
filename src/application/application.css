@@ -1,0 +1,16 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.label {
+     -fx-font-family: "Avenir";
+     -fx-font-size: 60pt;
+     -fx-font-weight: bold
+     
+}
+
+.root {
+    -fx-accent: darkGray;
+    -fx-focus-color: darkGray;
+}
+
+
+
+
