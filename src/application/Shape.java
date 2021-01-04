@@ -1,10 +1,3 @@
-/*
- * NAME: Neeco Fabian
- * DATE: 14 June 2019
- * COURSE CODE: ICS4UQ-01
- * CPT PROGRAM: Lax
- */
-
 
 package application;
 

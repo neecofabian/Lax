@@ -1,8 +1,3 @@
-/*
- * Neeco Fabian
- * 14 June 2019
- */
-
 
 package application;
 
